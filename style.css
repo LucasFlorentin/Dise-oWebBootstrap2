@@ -1,0 +1,106 @@
+body{
+    background-image: url("img/engin-akyurt-Hlkuojv_P6I-unsplash.jpg");
+    background-size: cover;
+}
+
+#imgPerfil {
+    margin-top: 20px;
+    border-radius: 50%;
+}
+
+.row {
+    margin-top: 20px;
+}
+
+#cardPerfil {
+    background-image: url("img/fondoPerfil.jpg");
+    box-shadow: rgb(29, 160, 114) 0px 20px 30px -10px;
+}
+
+#fuentePre{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 42;
+    display: flex;
+    margin-left: 10px;
+}
+
+#fuentePres{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+#fuente1 {
+    color: white;
+    font-family: "Sofia", sans-serif;
+    font-style: italic;
+    font-size: 40px;
+    text-shadow: 3px 3px 3px #ababab;
+}
+
+#fuente2 {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+
+#fuente3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+#iconoFace {
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+#cardAccordion{
+    background-image: url("img/fondoPerfil.jpg");
+    box-shadow: rgb(29, 160, 114) 0px 20px 30px -10px;
+}
+
+.accordion{
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+#AlinearIzquierda{
+    text-align: left;
+}
+
+#imgCardFin{
+    padding-right: 30px;
+    padding-top: 20px;
+  }
+
+  #lalala{
+    margin-top: 20px;
+  }
+
+  #cardFin{
+    background-image: url("img/fondoPerfil.jpg");
+    box-shadow: rgb(29, 160, 114) 0px 20px 30px -10px;
+  }
+
+
+  .card-titleFin{
+    color: white;
+    font-family: "Sofia", sans-serif;
+    font-style: italic;
+    font-size: 25px;
+    text-shadow: 3px 3px 3px black;
+  }
+
+  .card-textFin{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: 17px;
+  }
+
+  #imagen-prueba{
+    margin-top: 35px ;
+    margin-left: 160px;
+    margin-right: 160px;
+  }
